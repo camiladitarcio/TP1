@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554398589 source:c:\ditar\utn\2019\tp_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554397772 source:c:\ditar\utn\2019\tp_01\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554394047 c:\ditar\utn\2019\tp_01\funciones.h
+
