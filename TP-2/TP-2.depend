@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1557415024 source:c:\users\mario\desktop\tp-2\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"empleado.h"
+
+1557339582 c:\users\mario\desktop\tp-2\utn.h
+
+1557413080 c:\users\mario\desktop\tp-2\empleado.h
+
+1557339582 source:c:\users\mario\desktop\tp-2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1557530267 source:c:\ditar\tp-2\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"empleado.h"
+
+1557339582 c:\ditar\tp-2\utn.h
+
+1557506133 c:\ditar\tp-2\empleado.h
+
+1557503359 source:c:\ditar\tp-2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1557529438 source:c:\ditar\tp-2\empleado.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"Empleado.h"
+
