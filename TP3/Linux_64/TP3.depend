@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1560200714 source:/home/ditar/dit/Laboratorio1/persona/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"utn.h"
+
+1559879609 /home/ditar/dit/Laboratorio1/persona/Linux_64/LinkedList.h
+
+1559879738 /home/ditar/dit/Laboratorio1/persona/Linux_64/Employee.h
+
+1559879609 /home/ditar/dit/Laboratorio1/persona/Linux_64/Controller.h
+
+1559879609 /home/ditar/dit/Laboratorio1/persona/Linux_64/parser.h
+
+1559879609 /home/ditar/dit/Laboratorio1/persona/Linux_64/utn.h
+
+1560030410 source:/home/ditar/dit/Laboratorio1/persona/Linux_64/Employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"LinkedList.h"
+	"Controller.h"
+	"utn.h"
+
+1560030253 source:/home/ditar/dit/Laboratorio1/persona/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560184505 source:/home/ditar/dit/Laboratorio1/persona/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559879609 source:/home/ditar/dit/Laboratorio1/persona/Linux_64/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
